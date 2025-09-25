@@ -35,7 +35,9 @@
   content: "\e91d";
 }
 .icon-left-arrow:before {
-  content: "\e91b";
+  font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f060";  
 }
 .icon-right-arrow:before {
    font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
@@ -43,10 +45,14 @@
     content: "\f061"; 
 }
 .icon-sec-icon:before {
-  content: "\e90a";
+  font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f0c8";  
 }
 .icon-quote:before {
-  content: "\e902";
+  font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f10d";  
 }
 .icon-user-1:before {
   font-family: "Font Awesome 6 Free";  /* must match the Font Awesome font name you loaded */
@@ -76,7 +82,9 @@
     content: "\f4c1"; 
 }
 .icon-growth-2:before {
-  content: "\e907";
+  font-family: "Font Awesome 6 Brands";  /* Brands font family */
+    font-weight: 400;                      /* Brands icons usually use 400 */
+    content: "\f36f";  
 }
 .icon-growth-3:before {
   content: "\e908";
@@ -93,7 +101,9 @@
   content: "\e90c";
 }
 .icon-location:before {
-  content: "\e90d";
+   font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f3c5";  
 }
 .icon-phone-1:before {
   font-family: "Font Awesome 6 Free"; /* match the FA font you loaded */
@@ -117,23 +127,33 @@
   content: "\f002";
 }
 .icon-software-2:before {
-  content: "\e913";
+  font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f5bd"; 
 }
 .icon-Star-3:before {
-  content: "\e914";
+  font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f005";
 }
 .icon-team-2:before {
   content: "\e915";
 }
 .icon-user-experience-1:before {
-  content: "\e916";
+  font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f54e";  
 }
 .icon-vector-1:before {
-  content: "\e917";
+  font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f247"; 
 }
 .icon-verified-2:before {
   content: "\e918";
 }
 .icon-world:before {
-  content: "\e919";
+  font-family: "Font Awesome 6 Free";  /* Font Awesome font name */
+    font-weight: 900;                    /* 900 = solid style */
+    content: "\f0e0";  
 }
